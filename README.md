@@ -1,12 +1,14 @@
 #RollaBall_1
 
 
-⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
+📐📐📐📐📐📐📐📐📐📐📐📐📐📐📐
+
 
 ## Additions not contemplated in practice ⛽
 
-_Added Music to the Scenes, each one has its own music.
-
+_Added Music to the Scenes, it is a tribute to that videogames of 90's ("Street of Rage" and the music "Beach Moon")._
+_Added extra elements in the walls (green doors) to the scene, to get to other scenes directly_
+_Added extra keys to get to the game in all moment , pushing return keyboard key._
 
 
 _Game project with Unity for training purposes for the use and practice of video game programming. Project done step by step with the official Unity tutorial " Roller Ball "_
@@ -76,15 +78,15 @@ You can find much more about how to use this project in our [Wiki](https://githu
 
 ## Versioned 📌
 
-0.1a - 
-0.1b - 
+0.1a - Initial release: It is a first release, would like that this project were a example to learn about Unity simple proyect.
+ 
 
 ## Authors ✒️
 
 _Thanks to my teacher Tiburcio Cruz_
-_Thanks to my classmates, 
+_Thanks to my classmates,Norberto, Rafael and Eduardo. 
 
-* **Manuel** - *Initial Work* - [usuario](https://github.com/leunamv/RollaBall_1.git)
+* **Manuel** - *Initial Work* - [leunamv](https://github.com/leunamv/RollaBall_1.git)
 
 
 ## License 📄
@@ -96,10 +98,7 @@ This project is licensed under the (Your License) License - see the file [LICENS
 * Tell others about this project 📢
 * Invite someone from the team a beer 🍺 or a coffee ☕.
 * Give thanks publicly 🤓.
-* Donate with crypto to this address:
-* etc.
-
-
+* Donate with crypto to this address:...
 
 ---
-⌨️ with ❤️ by [norbertoacu](https://github.com/norbertoacu) 😊
+⌨️ with ❤️ by [leunamv](https://github.com/leunamv/RollaBall_1.git) 😊
